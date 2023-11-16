@@ -8,5 +8,5 @@
 
 
 <p align="center">
-  <img src="extra/assets/images/qi.png" alt="Qi Logo" width="230" height="120">
+  <img src="extra/assets/images/qi.png" alt="Qi Logo" width="230" height="110">
 </p>
