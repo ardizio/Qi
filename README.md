@@ -13,5 +13,5 @@
 
 
 <p align="center">
-  <img src="extra/assets/images/qi.png" alt="Qi Logo" style="max-width: 200px; max-height: 100%;">
+  <img src="extra/assets/images/qi.png" alt="Qi Logo" style="max-width: 200px; max-height: 100px;">
 </p>
