@@ -1,5 +1,5 @@
-<p align="center" style="display: block;  max-width:230px;  max-height:95px;   width: auto; height: auto;">
-  <img src="https://github.com/ardizio/QI/blob/6b1c53a47b7599b579aa390e7a2880472a424023/extra/assets/images/qi.png" />
+<p align="center">
+  <img src="extra/assets/images/qi.png" alt="Qi Logo" width="230" height="110">
 </p>
 
 <h2 align="center">
@@ -7,6 +7,3 @@
 </h2>
 
 
-<p align="center">
-  <img src="extra/assets/images/qi.png" alt="Qi Logo" width="230" height="110">
-</p>
