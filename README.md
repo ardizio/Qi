@@ -10,3 +10,8 @@
 <p align="center">
   <img src="extra/assets/images/qi.png" alt="Qi Logo" width="230" height="95">
 </p>
+
+
+<p align="center">
+  <img src="extra/assets/images/qi.png" alt="Qi Logo" style="max-width: 100%; max-height: 100%;">
+</p>
